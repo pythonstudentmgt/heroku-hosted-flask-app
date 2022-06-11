@@ -55,7 +55,6 @@ pyOpenSSL==22.0.0
 pyparsing==3.0.7
 PyPDF2==1.26.0
 pyperclip==1.8.2
-pypiwin32==223
 pyppeteer==1.0.2
 pyppeteer-stealth==2.7.3
 PyRect==0.1.4
